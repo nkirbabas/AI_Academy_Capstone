@@ -12,7 +12,7 @@ is to use AI to detect AI by creating a machine learning model to detect these
 fake reviews. The model I have created is able to identify fake reviews with
 an 87% overall accuracy.
 
-![online shopping](AI_Academy_Capstone/readme_banner.jpeg)
+![online shopping](images/readme_banner.jpeg)
 
 ## Code
 The code uses an extensive amount of libraries to enable several different 
