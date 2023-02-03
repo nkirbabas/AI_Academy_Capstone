@@ -17,6 +17,7 @@ an 87% overall accuracy.
 ## Code
 The code uses an extensive amount of libraries to enable several different 
 cleaning, processing, and modeling capabilities. Such libraries include:
+
     - pandas
     - nltk
     - sklearn
@@ -42,10 +43,15 @@ seen before during training. The results of the model are then captured using
 the several different statistical metrics. 
 
 The base model performed quite well:
+
 Accuracy 0.8728194977112458
-Precision 0.8879689521345407
+
+Precision 0.8879689521345407 
+
 Recall 0.8522473305189968
+
 F1 Score 0.8697415103902686
+
 
 After creating the base model as a comparison, a new model will be used with 
 more sophisticated methods. The new method is Random Forest model, which is an
@@ -57,9 +63,13 @@ When it came to the actual results of the random forest pipeline, the results
 were not as good as the base model:
 
 Accuracy 0.8566126438203637
+
 Precision 0.83646175504458
+
 Recall 0.8852743978147505
+
 F1 Score 0.8601761370491012
+
 
 When trying to fine tune the parameters, the results yielded even worse 
 results. The reason for this could be the random forest method is not the best
@@ -80,6 +90,7 @@ This could create a more accurate rating despite being imperfect.
 
 ## How to navigate repository
 The repository has five main files to be viewed:
+
     - The Readme 
     - the main notebook called 'AI Academy Capstone.ipynb' (link)
     - the amazon review csv file
