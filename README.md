@@ -93,10 +93,10 @@ This could create a more accurate rating despite being imperfect.
 The repository has five main files to be viewed:
 
     - Readme.md 
-    - Main notebook called [AI Academy Capstone.ipynb](./'AI Academy Capstone.ipynb')
+    - Main notebook called ["AI Academy Capstone.ipynb"](AI Academy Capstone.ipynb)
     - Amazon Reviews CSV file
     - Project proposal
-    - [Project presentation](./'Nick Kirbabas Capstone_Presentation.pptx')
+    - ["Nick Kirbabas Capstone_Presentation.pptx"](Nick Kirbabas Capstone_Presentation.pptx)
     
 ## Reproducing results
 To reproduce the results of the notebook, simply fork the repo, ensure the
