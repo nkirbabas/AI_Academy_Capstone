@@ -26,6 +26,7 @@ cleaning, processing, and modeling capabilities. Such libraries include:
     - numpy
 
 Using these libraries, code performs the following data processing steps
+
     1. Loading the data from a CSV file into a pandas dataframe
     2. exploring the dataset and using seaborn to create intuitive graphs
     3. Cleaning the data through normalizing, tokenizing, lemmatizing, and 
