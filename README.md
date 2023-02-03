@@ -92,11 +92,15 @@ This could create a more accurate rating despite being imperfect.
 ## How to navigate repository
 The repository has five main files to be viewed:
 
-    - Readme.md 
-    - Main notebook called [AI Academy Capstone](https://github.com/nkirbabas/AI_Academy_Capstone/blob/main/AI%20Academy%20Capstone.ipynb)
-    - Amazon Reviews CSV file
-    - Project proposal
-    - [Powerpoint Presentation](https://github.com/nkirbabas/AI_Academy_Capstone/blob/main/Nick%20Kirbabas%20Capstone_Presentation.pptx)
+- Readme.md 
+
+- Main notebook called [AI Academy Capstone](https://github.com/nkirbabas/AI_Academy_Capstone/blob/main/AI%20Academy%20Capstone.ipynb)
+
+- Amazon Reviews CSV file
+
+- Project proposal
+
+- [Powerpoint Presentation](https://github.com/nkirbabas/AI_Academy_Capstone/blob/main/Nick%20Kirbabas%20Capstone_Presentation.pptx)
     
 ## Reproducing results
 To reproduce the results of the notebook, simply fork the repo, ensure the
