@@ -17,6 +17,7 @@ an 87% overall accuracy.
 ## Code
 The code uses an extensive amount of libraries to enable several different 
 cleaning, processing, and modeling capabilities. Such libraries include:
+
     - pandas
     - nltk
     - sklearn
@@ -89,6 +90,7 @@ This could create a more accurate rating despite being imperfect.
 
 ## How to navigate repository
 The repository has five main files to be viewed:
+
     - The Readme 
     - the main notebook called 'AI Academy Capstone.ipynb' (link)
     - the amazon review csv file
