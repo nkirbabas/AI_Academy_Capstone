@@ -43,8 +43,8 @@ the several different statistical metrics.
 
 The base model performed quite well:
 Accuracy 0.8728194977112458
-Precision 0.8879689521345407
-Recall 0.8522473305189968
+Precision 0.8879689521345407 
+Recall 0.8522473305189968 
 F1 Score 0.8697415103902686
 
 After creating the base model as a comparison, a new model will be used with 
