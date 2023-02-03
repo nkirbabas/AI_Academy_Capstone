@@ -100,7 +100,7 @@ The repository has five main files to be viewed:
 
 - Project proposal
 
-- [Powerpoint Presentation](https://github.com/nkirbabas/AI_Academy_Capstone/blob/main/Nick%20Kirbabas%20Capstone_Presentation.pptx)
+- [Powerpoint Presentation](https://github.com/nkirbabas/AI_Academy_Capstone/blob/main/Nick%20Kirbabas%20Capstone_Presentation.pdf)
     
 ## Reproducing results
 To reproduce the results of the notebook, simply fork the repo, ensure the
